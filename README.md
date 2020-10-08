@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Michael 👍
 
 <!--
 **michael-rowland/michael-rowland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📊 I'm a data scientist with experience solving data science, data visualization, and machine learning problems.
+- 👨‍💻 Recent gradduate of Lambda School's [Data Science program](https://lambdaschool.com/courses/data-science)
+- 📫 How to reach me: [Email](mailto:mrowland13@gmail.com) | [LinkedIn](https://www.linkedin.com/in/michaelrowland3/)
+- 🥏 When I'm not programming, I'm usually outside - playing disc golf or hiking
